@@ -5,7 +5,7 @@ from random import randint, choice
 from collections import deque
 import matplotlib.colors as mcolors
 
-# 设置迷宫大小
+#设置迷宫大小
 WIDTH = 60
 HEIGHT = 40
 
